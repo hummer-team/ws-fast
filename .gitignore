@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+target
+target/*
+.flattened-pom.xml
+log
+logs
+*.log
+*.tar.gz
+
